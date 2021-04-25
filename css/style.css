@@ -1,0 +1,30 @@
+.grid{
+    width: 808px;
+    height:808px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height:200px;
+    width:200px;
+    border:solid black 1px;
+}
+
+.mole{
+    background-color: rgb(8, 238, 19) ;
+    
+
+    border-radius: 50%;
+    
+
+}
+
+button{
+    color:rgb(255, 255, 255);
+    background-color: rgb(23, 0, 78);
+    border:solid blue 1px;
+    width:150px;
+    height:100px;
+    margin: 0 auto;
+}
